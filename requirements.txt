@@ -1,0 +1,6 @@
+pandas
+dask
+flask
+networkx
+gunicorn
+talipp
